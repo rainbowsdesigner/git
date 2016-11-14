@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 My name is Trinh Van Hoan
 Hello you
+=======
+>>>>>>> parent of adcdcea... Add the second
